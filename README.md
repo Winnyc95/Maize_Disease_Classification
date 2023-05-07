@@ -5,7 +5,6 @@ Diseases are largely responsible for low maize yields, accurate identification o
 ## Solution:
 By obtaining images of maize leaves that have been annotated, a CNN model is trained to accurately classify the images as having Grey Spot, Northern Leaf Blight, Common Rust or healthy. The model is then deployed as a streamlit app and can be accessed by farmers.
 ## Model building
-* Data Collection: 
-* Modelling: Tensorflow, Keras, CNN
+* Tensorflow, Keras, CNN
 ## Deployment
 * Streamlit: 
